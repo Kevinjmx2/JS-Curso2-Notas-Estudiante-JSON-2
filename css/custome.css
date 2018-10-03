@@ -1,0 +1,69 @@
+/* 
+    Document   : custome
+    Created on : 15/05/2013, 07:20:39 PM
+    Author     : KevJMelM
+    Description:
+        Purpose of the stylesheet follows.
+
+
+*/
+
+.page{
+	margin:20px 10px 0px 10px;
+        padding:10px 10px 10px 10px;
+	background-color:white;
+        border:5px solid #0081c2;
+        border-radius: 12px;
+	}
+.jumbotron{background-color: #31b0d5;
+           color: white;
+           border-radius: 12px;
+           /*box-shadow: 5px 0px 15px #0081c2;*/
+           height: 270px;
+         
+           
+           
+ }
+
+li{ border-top: 1px solid white; 
+    border-right: 1px solid white;
+    border-radius: 6px;
+    margin:1px 4px 0px 1px;
+    
+}
+a{
+    color:white;
+}
+a, label, input, select, button, btn{font-family:"LuzSans-Book"}
+#contes{
+	background-color:white;
+	padding:10px 1px 2px 0px;
+	border: 1px solid orage;
+	}
+.espaciover{
+    padding: 10px 0px 0px 0px;
+            
+        }
+ #acordion{
+     background-color:cornflowerblue}
+ .especial{
+     margin:0px 0px 5px 0px;
+     border-radius:10px;
+     padding:0px 1px 5px 1px;
+     font-family:"Bookman Old Style";
+     font-size:15;
+     background-color:white;
+     color:black;}
+ h1{    
+     font-family:"Bookman Old Style";
+     color:white;
+ }
+ h3, h4, h5{
+     font-family:"LuzSans-Book"
+ }       
+.cuadro{
+    padding:10px 10px 10px 10px;
+    border: 1px solid #0081c2;
+    border-radius: 6px
+}
+
